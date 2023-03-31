@@ -2,7 +2,7 @@
 
 This is a real-time video chat application built using Node.js, Express, MongoDB, Redis, and the Agora.io API. The application allows users to create video chat rooms and communicate with other users in real-time.
 
-**Features**
+**Features:**
 
 * Home page with information and images.
 * Navbar with logo and signin/signup buttons.
@@ -54,7 +54,7 @@ To get started with this project, follow these steps:
 
 1. To create a new account, click the "Sign up" button on the home page and fill out the registration form with your name, . email address, and password.
 
- ![Sign up page](./frontend/images/login.PNG)
+ ![Sign up page](./frontend/images/signup.PNG)
 
 2. Click the "Submit" button to create your account.
 
@@ -87,7 +87,7 @@ To get started with this project, follow these steps:
 
 ![Chat section ](./frontend/images/chat.PNG)
 
- **website's responsiveness**
+ **website's responsiveness:**
 
 * Home page: The home page is designed to be fully responsive and optimized for various screen sizes. The images, text, and navigation bar adjust dynamically to fit the screen size, with the navigation bar collapsing into a hamburger menu on smaller screens. The layout is clean and easy to read, with images scaled appropriately for different screen resolutions.
 
