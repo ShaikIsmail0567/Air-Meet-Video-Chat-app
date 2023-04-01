@@ -52,6 +52,7 @@ const username = usernameInput.value;
                       setTimeout(()=>{
                         window.location.href="lobby.html"
                       },2500)
+
                    
                 }
             })
