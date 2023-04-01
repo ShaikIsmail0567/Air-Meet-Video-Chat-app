@@ -74,23 +74,17 @@ body {
     margin-top: 17%;
     margin-left: 5%;
 }
-/* @media all and (min-width: 792px) and (max-width: 900px) {
-    #left{
-        display: none; 
-        width: 0px;
-        margin: 0px;
-     }
-}
-@media screen and (min-width: 200px) and (max-width:  795px) {
-    #left{
-       display: none; 
-       width: 0px;
-        margin: 0px;
-    }
-  } */
 
-/* @media screen and (max-width: 760px){
-    .leftalimg{
-        display: none;
-     }
-} */
+@media screen and (max-width: 600px) {
+    #main{
+        flex-direction: column;
+    }
+}
+
+
+
+@media screen and (max-width: 950px) {
+    #main{
+        flex-direction: column;
+    }
+}
