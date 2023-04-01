@@ -10,7 +10,7 @@ body {
     /* height: 100vh; */
 }
 .form {
-    background-color: #fff;
+    background-color: #2C74B3;
     padding: 30px;
     
     border-radius: 5px;
@@ -74,3 +74,23 @@ body {
     margin-top: 17%;
     margin-left: 5%;
 }
+/* @media all and (min-width: 792px) and (max-width: 900px) {
+    #left{
+        display: none; 
+        width: 0px;
+        margin: 0px;
+     }
+}
+@media screen and (min-width: 200px) and (max-width:  795px) {
+    #left{
+       display: none; 
+       width: 0px;
+        margin: 0px;
+    }
+  } */
+
+/* @media screen and (max-width: 760px){
+    .leftalimg{
+        display: none;
+     }
+} */
